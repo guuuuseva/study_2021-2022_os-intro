@@ -1,6 +1,6 @@
-# Шаблон каталога курса для студентов
+# Общий салам!
 
-## Скачать репозиторий
+## Вот канал по операционным системам
 
-git clone --recursive https://github.com/yamadharma/course-directory-student-template.git
+https://www.youtube.com/channel/UCZ55YTOzS642A4ZTbPi3WGw
 
